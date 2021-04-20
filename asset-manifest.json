@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio-project-React-Formik-Bootstrap-Signin-Form/static/css/main.6a48d890.chunk.css",
+    "main.js": "/Portfolio-project-React-Formik-Bootstrap-Signin-Form/static/js/main.3bc5adea.chunk.js",
+    "main.js.map": "/Portfolio-project-React-Formik-Bootstrap-Signin-Form/static/js/main.3bc5adea.chunk.js.map",
+    "runtime-main.js": "/Portfolio-project-React-Formik-Bootstrap-Signin-Form/static/js/runtime-main.2ceff5c1.js",
+    "runtime-main.js.map": "/Portfolio-project-React-Formik-Bootstrap-Signin-Form/static/js/runtime-main.2ceff5c1.js.map",
+    "static/js/2.66c28c2d.chunk.js": "/Portfolio-project-React-Formik-Bootstrap-Signin-Form/static/js/2.66c28c2d.chunk.js",
+    "static/js/2.66c28c2d.chunk.js.map": "/Portfolio-project-React-Formik-Bootstrap-Signin-Form/static/js/2.66c28c2d.chunk.js.map",
+    "index.html": "/Portfolio-project-React-Formik-Bootstrap-Signin-Form/index.html",
+    "static/css/main.6a48d890.chunk.css.map": "/Portfolio-project-React-Formik-Bootstrap-Signin-Form/static/css/main.6a48d890.chunk.css.map",
+    "static/js/2.66c28c2d.chunk.js.LICENSE.txt": "/Portfolio-project-React-Formik-Bootstrap-Signin-Form/static/js/2.66c28c2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ceff5c1.js",
+    "static/js/2.66c28c2d.chunk.js",
+    "static/css/main.6a48d890.chunk.css",
+    "static/js/main.3bc5adea.chunk.js"
+  ]
+}
